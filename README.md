@@ -23,3 +23,4 @@ Chargement du ControlList par code, évènement onDrawItem / Loading the Control
 
 Sorte d'inventaire utilisation de OnShowControl,OnEnableControl. OnItemClick bug ? 
 Sort of inventory  usage of OnShowControl, OnEnableControl. OnItemClick bug ?
+![Capture_3](https://user-images.githubusercontent.com/51124639/114264897-eb5d6f00-99ed-11eb-9c75-8b60376b0708.PNG)
