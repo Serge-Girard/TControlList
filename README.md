@@ -18,3 +18,8 @@ Changement de présentation à l'exécution / Changing columnlayout propertie at
 
 Chargement du ControlList par code, évènement onDrawItem / Loading the ControlList by code, onDrawItem event
 ![Capture](https://user-images.githubusercontent.com/51124639/114035957-e7134380-987f-11eb-8b13-0a139f63746c.PNG)
+
+4 - Inventaire
+
+Sorte d'inventaire utilisation de OnShowControl,OnEnableControl. OnItemClick bug ? 
+Sort of inventory  usage of OnShowControl, OnEnableControl. OnItemClick bug ?
