@@ -42,6 +42,8 @@ The challenge ! How to drag & drop an image into a TControlList. Get the element
 Un image browser en utilisant TControlList / An image browser using TControlList
 
 8- SpotLights
+
 Objectif : montrer le nombre de fois où le TControlList se dessine et accessoirement jouer avec.
 Objective: to show the number of times the TControlList is drawn and incidentally to play with this.
+![Capture](https://user-images.githubusercontent.com/51124639/114299813-a1dc5500-9abd-11eb-899a-f28e6091701c.PNG)
 
