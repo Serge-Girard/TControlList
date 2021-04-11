@@ -24,3 +24,14 @@ Chargement du ControlList par code, évènement onDrawItem / Loading the Control
 Sorte d'inventaire utilisation de OnShowControl,OnEnableControl. OnItemClick bug ? 
 Sort of inventory  usage of OnShowControl, OnEnableControl. OnItemClick bug ?
 ![Capture_3](https://user-images.githubusercontent.com/51124639/114264897-eb5d6f00-99ed-11eb-9c75-8b60376b0708.PNG)
+
+5 - FishCards
+
+Similaire au 4, l'objectif est d'avoir la possibilité de tester les gestes sur un écran tactile si l'on a le matériel adéquat.
+Similar to 4, the goal is to be able to test gestures on a touch screen if you have the right equipment.
+![Capture](https://user-images.githubusercontent.com/51124639/114294995-9af41900-9aa2-11eb-9ed2-b3400e67a861.PNG)
+
+6 - Drag&Drop
+
+Le challenge ! Comment glisser/déposer une image dans un TControlList. Obtenir l'élément en fonction de la position de la souris (création d'un helper)
+The challenge ! How to drag & drop an image into a TControlList. Get the element according to the position of the mouse (creation of a helper)
