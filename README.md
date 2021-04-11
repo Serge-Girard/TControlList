@@ -35,3 +35,4 @@ Similar to 4, the goal is to be able to test gestures on a touch screen if you h
 
 Le challenge ! Comment glisser/déposer une image dans un TControlList. Obtenir l'élément en fonction de la position de la souris (création d'un helper)
 The challenge ! How to drag & drop an image into a TControlList. Get the element according to the position of the mouse (creation of a helper)
+![Capture](https://user-images.githubusercontent.com/51124639/114295596-874ab180-9aa6-11eb-8681-bacabc618f34.PNG)
