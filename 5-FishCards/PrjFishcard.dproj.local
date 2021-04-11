@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/27 07:26:04.000.305,=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\Unit20.pas</Transaction>
+    <Transaction>2021/03/27 07:39:58.000.463,D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\Unit20.pas=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\UPokeFish.pas</Transaction>
+    <Transaction>2021/03/27 07:39:58.000.463,D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\Unit20.dfm=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\UPokeFish.dfm</Transaction>
+    <Transaction>2021/03/27 07:40:12.000.010,D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\Project10.dproj=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\PrjPokeFish.dproj</Transaction>
+    <Transaction>2021/03/30 15:44:23.000.056,D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\PrjPokeFish.dproj=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\PrjFishcard.dproj</Transaction>
+    <Transaction>2021/03/30 15:44:38.000.331,D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\UPokeFish.dfm=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\UFishCard.dfm</Transaction>
+    <Transaction>2021/03/30 15:44:38.000.331,D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\UPokeFish.pas=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\UFishCard.pas</Transaction>
+    <Transaction>2021/04/11 08:40:10.658,D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\ControlList\5-FishCards\UFishCard.pas=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\UFishCard.pas</Transaction>
+    <Transaction>2021/04/11 08:40:10.658,D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\ControlList\5-FishCards\UFishCard.dfm=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\UFishCard.dfm</Transaction>
+    <Transaction>2021/04/11 08:40:32.072,D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\ControlList\5-FishCards\PrjFishcard.dproj=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\PrjFishcard.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

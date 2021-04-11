@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/01 11:51:01.000.990,=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\Unit21.pas</Transaction>
+    <Transaction>2021/04/01 11:59:36.000.811,D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\Unit21.dfm=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\UCtrlListDragDrop.dfm</Transaction>
+    <Transaction>2021/04/01 11:59:36.000.811,D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\Unit21.pas=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\UCtrlListDragDrop.pas</Transaction>
+    <Transaction>2021/04/01 11:59:59.000.024,D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\Project10.dproj=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\PrjCtrlListDragDrop.dproj</Transaction>
+    <Transaction>2021/04/03 06:53:20.000.546,=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\Unit12.pas</Transaction>
+    <Transaction>2021/04/03 06:57:05.000.077,D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\ControlListHelper.pas=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\Unit12.pas</Transaction>
+    <Transaction>2021/04/05 16:50:32.000.709,=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\Unit12.pas</Transaction>
+    <Transaction>2021/04/05 16:51:09.000.330,D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\UDragObject.pas=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\Unit12.pas</Transaction>
+    <Transaction>2021/04/11 09:13:16.941,D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\UDragObject.pas=</Transaction>
+    <Transaction>2021/04/11 09:13:54.757,D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\ControlList\6-DragDrop\UCtrlListDragDrop.pas=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\UCtrlListDragDrop.pas</Transaction>
+    <Transaction>2021/04/11 09:13:54.757,D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\ControlList\6-DragDrop\UCtrlListDragDrop.dfm=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\UCtrlListDragDrop.dfm</Transaction>
+    <Transaction>2021/04/11 09:14:11.385,D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\ControlList\6-DragDrop\ControlListHelper.pas=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\ControlListHelper.pas</Transaction>
+    <Transaction>2021/04/11 09:14:30.922,D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\ControlList\6-DragDrop\PrjCtrlListDragDrop.dproj=D:\serge\Documents\Embarcadero\Studio\Projets\Sidney\PrjCtrlListDragDrop.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
