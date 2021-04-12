@@ -21,19 +21,19 @@ Chargement du ControlList par code, évènement onDrawItem / Loading the Control
 
 <b>4 - Inventaire</b>
 
-Sorte d'inventaire utilisation de OnShowControl,OnEnableControl. OnItemClick bug ? 
+Sorte d'inventaire utilisation de OnShowControl,OnEnableControl. OnItemClick bug ?<br> 
 Sort of inventory  usage of OnShowControl, OnEnableControl. OnItemClick bug ?
 ![Capture_3](https://user-images.githubusercontent.com/51124639/114264897-eb5d6f00-99ed-11eb-9c75-8b60376b0708.PNG)
 
 <b>5 - FishCards</b>
 
-Similaire au 4, l'objectif est d'avoir la possibilité de tester les gestes sur un écran tactile si l'on a le matériel adéquat.
+Similaire au 4, l'objectif est d'avoir la possibilité de tester les gestes sur un écran tactile si l'on a le matériel adéquat.<br>
 Similar to 4, the goal is to be able to test gestures on a touch screen if you have the right equipment.
 ![Capture](https://user-images.githubusercontent.com/51124639/114294995-9af41900-9aa2-11eb-9ed2-b3400e67a861.PNG)
 
 <b>6 - Drag&Drop</b>
 
-Le challenge ! Comment glisser/déposer une image dans un TControlList. Obtenir l'élément en fonction de la position de la souris (création d'un helper).
+Le challenge ! Comment glisser/déposer une image dans un TControlList. Obtenir l'élément en fonction de la position de la souris (création d'un helper).<br>
 The challenge ! How to drag & drop an image into a TControlList. Get the element according to the position of the mouse (creation of a helper)
 ![Capture](https://user-images.githubusercontent.com/51124639/114295596-874ab180-9aa6-11eb-8681-bacabc618f34.PNG)
 
@@ -43,7 +43,7 @@ Un image browser en utilisant TControlList / An image browser using TControlList
 
 <b>8- SpotLights</b>
 
-Objectif : montrer le nombre de fois où le TControlList se dessine et accessoirement jouer avec.
+Objectif : montrer le nombre de fois où le TControlList se dessine et accessoirement jouer avec.<br>
 Objective: to show the number of times the TControlList is drawn and incidentally to play with this.
 ![Capture](https://user-images.githubusercontent.com/51124639/114299813-a1dc5500-9abd-11eb-899a-f28e6091701c.PNG)
 
