@@ -41,16 +41,14 @@ The challenge ! How to drag & drop an image into a TControlList. Get the element
 
 Un image browser en utilisant TControlList / An image browser using TControlList
 
-<b>8- SpotLights</b>
-
+<b>8- SpotLights</b><br>
 Objectif : montrer le nombre de fois où le TControlList se dessine et accessoirement jouer avec.<br>
-Objective: to show the number of times the TControlList is drawn and incidentally to play with this.
-![Capture](https://user-images.githubusercontent.com/51124639/114299813-a1dc5500-9abd-11eb-899a-f28e6091701c.PNG)
+Objective: to show the number of times the TControlList is drawn and incidentally to play with this.<br>
+![Capture](https://user-images.githubusercontent.com/51124639/114347223-e8d15580-9b64-11eb-97b2-e1211c96d482.PNG)
 
 <b>9- SapinNoel</b>
 
 De la même veine que SpotLights, l'objectif était de découvrir une fonctionnalité au paramètre ACanvas.<br>
-In the same vein as SpotLights, the goal was to discover a feature in the ACanvas parameter.
-
+In the same vein as SpotLights, the goal was to discover a feature in the ACanvas parameter.<br>
 ![Capture](https://user-images.githubusercontent.com/51124639/114345940-ea018300-9b62-11eb-9a86-f8da2ae87ffc.PNG)
 
