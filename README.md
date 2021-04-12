@@ -1,45 +1,39 @@
 # TControlList
 Découverte du TControlList /  Discovering TControlList 
 
-Divers programmes pour découvrir les facettes de ce nouveau composant
+Divers programmes pour découvrir les facettes de ce nouveau composant<br>
 Various programs to discover the facets of this new component
 
-<b>1 - NoCode</b>
+<b>1 - NoCode</b><br>
+Utilisation simple ? Merci aux LiveBindings  / Easy to use ? Thank Livebindings<br>
+![Capture](https://user-images.githubusercontent.com/51124639/114348114-65186880-9b66-11eb-8a76-21ebd703c472.PNG)
 
-Utilisation simple ? Merci aux LiveBindings  / Easy to use ? Thank Livebindings
-![Capture](https://user-images.githubusercontent.com/51124639/114027799-0c03b880-9878-11eb-85bf-96a331856abb.PNG)
+<b>2 - Spot1</b><br>
+Changement de présentation à l'exécution / Changing columnlayout propertie at runtime<br>
+![Capture_](https://user-images.githubusercontent.com/51124639/114348118-66e22c00-9b66-11eb-87e2-933d93563475.PNG)
 
-<b>2 - Spot1</b>
+<b>3 - Apnee</b><br>
+Chargement du ControlList par code, évènement onDrawItem / Loading the ControlList by code, onDrawItem event<br>
+![Capture_1](https://user-images.githubusercontent.com/51124639/114348120-68135900-9b66-11eb-96c2-c9d6e33a2e80.PNG)
 
-Changement de présentation à l'exécution / Changing columnlayout propertie at runtime
-![Capture](https://user-images.githubusercontent.com/51124639/114030983-32772300-987b-11eb-98bd-fc0b4a6ad43a.PNG)
-
-<b>3 - Apnee</b>
-
-Chargement du ControlList par code, évènement onDrawItem / Loading the ControlList by code, onDrawItem event
-![Capture](https://user-images.githubusercontent.com/51124639/114035957-e7134380-987f-11eb-8b13-0a139f63746c.PNG)
-
-<b>4 - Inventaire</b>
-
+<b>4 - Inventaire</b><br>
 Sorte d'inventaire utilisation de OnShowControl,OnEnableControl. OnItemClick bug ?<br> 
 Sort of inventory  usage of OnShowControl, OnEnableControl. OnItemClick bug ?
-![Capture_3](https://user-images.githubusercontent.com/51124639/114264897-eb5d6f00-99ed-11eb-9c75-8b60376b0708.PNG)
+![Capture_2](https://user-images.githubusercontent.com/51124639/114348121-68abef80-9b66-11eb-9943-d9feafe46654.PNG)
 
-<b>5 - FishCards</b>
-
+<b>5 - FishCards</b><br>
 Similaire au 4, l'objectif est d'avoir la possibilité de tester les gestes sur un écran tactile si l'on a le matériel adéquat.<br>
 Similar to 4, the goal is to be able to test gestures on a touch screen if you have the right equipment.
-![Capture](https://user-images.githubusercontent.com/51124639/114294995-9af41900-9aa2-11eb-9ed2-b3400e67a861.PNG)
+![Capture_3](https://user-images.githubusercontent.com/51124639/114348126-69dd1c80-9b66-11eb-80f5-f86b30f42dae.PNG)
 
-<b>6 - Drag&Drop</b>
-
+<b>6 - Drag&Drop</b><br>
 Le challenge ! Comment glisser/déposer une image dans un TControlList. Obtenir l'élément en fonction de la position de la souris (création d'un helper).<br>
 The challenge ! How to drag & drop an image into a TControlList. Get the element according to the position of the mouse (creation of a helper)
-![Capture](https://user-images.githubusercontent.com/51124639/114295596-874ab180-9aa6-11eb-8681-bacabc618f34.PNG)
+![Capture_4](https://user-images.githubusercontent.com/51124639/114348128-6a75b300-9b66-11eb-9c7a-79c3a2e11b94.PNG)
 
-<b>7- Image Browser</b>
-
+<b>7- Image Browser</b><br>
 Un image browser en utilisant TControlList / An image browser using TControlList
+![Capture_5](https://user-images.githubusercontent.com/51124639/114348110-634ea500-9b66-11eb-9c60-032769a6a0de.PNG)
 
 <b>8- SpotLights</b><br>
 Objectif : montrer le nombre de fois où le TControlList se dessine et accessoirement jouer avec.<br>
