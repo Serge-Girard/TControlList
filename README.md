@@ -42,7 +42,7 @@ Objective: to show the number of times the TControlList is drawn and incidentall
 
 <b>9- SapinNoel</b>
 
-De la même veine que SpotLights, l'objectif était de découvrir une fonctionnalité au paramètre ACanvas.<br>
-In the same vein as SpotLights, the goal was to discover a feature in the ACanvas parameter.<br>
+De la même veine que SpotLights, l'objectif était de découvrir une utilisation au paramètre ACanvas.<br>
+In the same vein as SpotLights, the goal was to discover a use for the ACanvas parameter.<br>
 ![Capture](https://user-images.githubusercontent.com/51124639/114345940-ea018300-9b62-11eb-9a86-f8da2ae87ffc.PNG)
 
