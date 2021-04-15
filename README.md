@@ -40,9 +40,13 @@ Objectif : montrer le nombre de fois où le TControlList se dessine et accessoir
 Objective: to show the number of times the TControlList is drawn and incidentally to play with this.<br>
 ![Capture](https://user-images.githubusercontent.com/51124639/114347223-e8d15580-9b64-11eb-97b2-e1211c96d482.PNG)
 
-<b>9- SapinNoel</b>
-
+<b>9- SapinNoel</b><br>
 De la même veine que SpotLights, l'objectif était de découvrir une utilisation au paramètre ACanvas.<br>
 In the same vein as SpotLights, the goal was to discover a use for the ACanvas parameter.<br>
 ![Capture](https://user-images.githubusercontent.com/51124639/114345940-ea018300-9b62-11eb-9a86-f8da2ae87ffc.PNG)
+
+<b>10- PrototypeSource</b><br>
+Les pièges de la liaison TControlList/TPrototypeBindSource, affichage de couleurs (Jim McKeith ControlListLiveBinding demo like)<br>
+Traps of the TControlList / TPrototypeBindSource binding, display of colors (Jim McKeith ControlListLiveBinding demo like)<br>
+![Capture](https://user-images.githubusercontent.com/51124639/114845844-681c8e80-9ddc-11eb-86b1-34cfd5c6b30c.PNG)  
 
