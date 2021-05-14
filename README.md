@@ -58,3 +58,4 @@ A sort of database-less trombinoscope, using a TPrototypeBindSource<br>
 <b>12- Taquin</b><br>
 Et pourquoi pas un petit jeu ? Voici un petit Taquin avec plusieurs niveaux de difficulté, et diverses images
 How about a little game? Here is a little sliding puzzle with several levels of difficulty, and various images
+![Capture](https://user-images.githubusercontent.com/51124639/118252690-54cb1480-b4a9-11eb-9704-0243e2358521.PNG)
