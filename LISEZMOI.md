@@ -6,6 +6,8 @@ Découverte du TControlList
 
 Divers programmes pour découvrir les facettes de ce nouveau composant.
 
+Ces démonstrations ont fait l'objet d'articles sur Developpez.com et d'une présentation en français en mai 2021 dont [la rediffusion et les liens sont disponibles ici](https://serialstreameur.fr/webinaire-20210520.php).
+
 ## 1 - NoCode
 Utilisation simple ? Merci aux LiveBindings.
 

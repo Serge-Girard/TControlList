@@ -6,6 +6,8 @@ Discovering TControlLists
 
 Various programs to discover the facets of this new component.
 
+These samples were the subject of articles on Developpez.com and of a presentation in French in May 2021 whose [replay and links are available here](https://serialstreameur.fr/webinaire-20210520.php).
+
 ## 1 - NoCode
 Easy to use ? Thank Livebindings
 
