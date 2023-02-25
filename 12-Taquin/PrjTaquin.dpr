@@ -2,7 +2,8 @@ program PrjTaquin;
 
 uses
   Vcl.Forms,
-  UTaquin in 'UTaquin.pas' {Formtaquin};
+  UTaquin in 'UTaquin.pas' {Formtaquin},
+  ControlListTaquinHelper in 'ControlListTaquinHelper.pas';
 
 {$R *.res}
 
